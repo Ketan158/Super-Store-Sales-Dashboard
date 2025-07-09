@@ -1,7 +1,7 @@
 
 ## Super Store Sales Dashboard
 
-An interactive Power BI dashboard analyzing a year’s worth of orders and revenue for a national superstore. This dashboard uncovers top‑performing categories, shipping efficiencies, regional strengths, and 21‑day sales forecasts—equipping stakeholders with data‑driven insights to optimize marketing, logistics, and inventory.
+An interactive Power BI dashboard analyzing a 2 year’s worth of orders and revenue for a national superstore. This dashboard uncovers top‑performing categories, shipping efficiencies, regional strengths, and 21‑day sales forecasts—equipping stakeholders with data‑driven insights to optimize marketing, logistics, and inventory.
 
 ---
 
@@ -67,7 +67,7 @@ Using built‑in Power BI forecasting:
 1. Open `Super_Store_Sales_Dashboard.pbix` in Power BI Desktop (tested on version 2.XX).  
 2. Refresh the data source if you update the CSV.  
 3. Explore filters for:  
-   - Date ranges (monthly, quarterly)  
+   - Date ranges (monthly)  
    - Category & Sub‑Category slicers  
    - State/Region map interactions  
    - Segment and Ship Mode breakdowns  
@@ -88,5 +88,3 @@ Using built‑in Power BI forecasting:
 - Build an automated email report for daily/weekly KPI summaries  
 
 ---
-
-> All metrics and visuals are based on the real sales dataset of 51,690 orders and reflect actual performance and forecasts.  
